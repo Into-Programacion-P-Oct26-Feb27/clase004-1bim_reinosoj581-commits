@@ -20,3 +20,4 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
+// el system.out.print sirve para presentar una linea
